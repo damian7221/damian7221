@@ -2,6 +2,8 @@
 <h3 align="center">A passionate frontend developer from Poland</h3>
 <img aligin="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/SupianIDz/SupianIDz/main/coding.gif" style="display: inline-block;">
 
+<p align="left"> <a href="https://twitter.com/damian72211" target="blank"><img src="https://img.shields.io/twitter/follow/damian72211?logo=twitter&style=for-the-badge" alt="damian72211" /></a> </p>
+
 - 🔭 I’m currently working on **Web application "tester"**
 
 - 🌱 I’m currently learning **JavaScript, React**
