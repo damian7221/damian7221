@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Damian Łojko</h1>
 <h3 align="center">A passionate frontend developer from Poland</h3>
-<img aligin="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/SupianIDz/SupianIDz/main/coding.gif">
+<img aligin="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/SupianIDz/SupianIDz/main/coding.gif" style="display: inline-block;">
 
 - 🔭 I’m currently working on **Web application "tester"**
 
